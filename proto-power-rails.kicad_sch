@@ -1,0 +1,20 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4e77c057-0951-402f-85d1-615881e274ae)
+
+  (paper "A4")
+
+  (title_block
+    (title "Proto Power Rails")
+    (date "2023-06-10")
+    (rev "0")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

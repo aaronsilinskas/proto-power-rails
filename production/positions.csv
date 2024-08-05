@@ -1,0 +1,4 @@
+Designator,Mid X,Mid Y,Rotation,Layer
+BAT,137.5,-106.0,90.0,top
+GND,137.5,-102.0,90.0,top
+REG,137.5,-110.0,90.0,top
