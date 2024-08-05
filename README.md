@@ -11,7 +11,7 @@ A PCB that distributes power would be enough to clean up my piles of spliced spa
 Proto Power Rails has 3 power lines, and I primarily use them to distribute ground, battery, and regulator.
 
 Features:
-- Each rail supports 12 pins/wires (plus an extra for the power source).
+- Each rail supports 12 pins/wires.
 - The pins are spaced 2.54mm apart so that headers can be soldered onto the board.
 - A common ground rail will help to prevent ground loops.
 - A battery rail for amplifiers, LEDs, and other components that draw more current than a microcontroller regulator can provide.
